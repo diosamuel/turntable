@@ -33,16 +33,17 @@ body {
   * CC-licensed pattern: 334: Sunrise Alpha Texture by Patrick Hoesly on Flickr
   * http://www.flickr.com/photos/zooboing/4169915237/in/photostream/
   */
- background: #000 url(../image/patrick-hoesly-334-sunrise-alpha-texture-128-dark.png);
+/* background: #000 url(../image/patrick-hoesly-334-sunrise-alpha-texture-128-dark.png);*/
 }
 
 #tt-wrapper {
  position:relative;
  padding: 64px 0px 64px 0px;
- background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 90%, rgba(16,16,16,0.25) 95%, rgba(16,16,16,1) 100%);
- background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 90%, rgba(16,16,16,0.25) 95%, rgba(16,16,16,1) 100%); /* ie 10? */
- background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 90%, rgba(16,16,16,0.25) 95%, rgba(16,16,16,1) 100%); /* ie 10? */
+ /*background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 90%, rgba(16,16,16,0.25) 95%, rgba(16,16,16,1) 100%);
+ background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 90%, rgba(16,16,16,0.25) 95%, rgba(16,16,16,1) 100%);
+ background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 90%, rgba(16,16,16,0.25) 95%, rgba(16,16,16,1) 100%);
  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0)), color-stop(15%,rgba(255,255,255,0.3)), color-stop(55%,rgba(255,255,255,0)), color-stop(90%,rgba(16,16,16,0)), color-stop(95%,rgba(16,16,16,0.25)), color-stop(100%,rgba(16,16,16,1)));
+ */
 }
 
 #tt-container {
@@ -262,7 +263,7 @@ body.battle-style .turntable {
 }
 
 .turntable .platter .record .slipmat {
- background: transparent url(../image/slipmats/techniques.jpg) no-repeat 50% 50%;
+ background: transparent url(../image/slipmats/ehwek.png) no-repeat 50% 50%;
 }
 
 .turntable.tripmat .record .slipmat {
